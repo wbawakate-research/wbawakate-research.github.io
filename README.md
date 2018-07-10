@@ -1,17 +1,12 @@
-# ミニドラプロジェクト
+# みんなで作るコミュニケーションロボット（仮）
 
 [Start Bootstrap - Stylish Portfolio](https://startbootstrap.com/template-overviews/stylish-portfolio/)を参考に作成しています。
 
 ## Preview
 
 ```
-$ python -m SimpleHTTPServer
-```
-
-or
-
-```
-$ python3 -m http.server
+$ npm install
+$ ./node_modules/gulp/bin/gulp.js dev
 ```
 
 ## License
